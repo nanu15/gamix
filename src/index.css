@@ -1,0 +1,72 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+*{
+    font-family: 'Poppins', sans-serif;
+}
+span{
+    color: rgb(181, 14, 14);
+}
+
+/* Contact  */
+
+.contact {
+
+    background-color: rgb(255, 255, 255);
+}
+
+form {
+
+    display: block;
+    background-color: #f3fdee;
+    box-shadow: 1px 1px 3px 2px #ffffff;
+    margin: 40px auto;
+    max-width: 700px;
+    max-height: 1000px;
+    padding: 25px 40px;
+}
+
+form input,
+textarea {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin: 15px auto;
+    padding: 8px;
+    font-family: "Poppins";
+    background-color: #fff;
+    border: 1px solid #cac8c8;
+    border-radius: 7px;
+}
+
+h1 {
+    color: #cdcaca;
+    font-size: 35px;
+}
+
+form span {
+    color: #52B69A;
+}
+
+.contactbtn {
+    height: 40px;
+    width: 90px;
+    align-items: center;
+    font-size: 17px;
+    border: none;
+    background-color: #D9ED92;
+    color: #70be8b;
+    border-radius: 5px;
+    cursor: pointer;
+
+}
+
+.contactbtn:hover {
+    background: #c8e26b;
+    color: #70be8b;
+    transition: all 0.5s;
+}
+
