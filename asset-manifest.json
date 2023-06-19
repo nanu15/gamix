@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/gamix/static/css/main.bb374bfb.css",
+    "main.js": "/gamix/static/js/main.a47509c6.js",
+    "static/media/valorent3.jpg": "/gamix/static/media/valorent3.9e678af8d5b5679794a3.jpg",
+    "static/media/minecraft2.jpg": "/gamix/static/media/minecraft2.a9bb9ba97ebd47a94bd1.jpg",
+    "static/media/basketball.jpg": "/gamix/static/media/basketball.ec006a32676f6cb02bf9.jpg",
+    "static/media/red2.png": "/gamix/static/media/red2.56b51784bc4be94054dc.png",
+    "static/media/jett1.jpg": "/gamix/static/media/jett1.4cdcd5db85030c5e2354.jpg",
+    "static/media/pc.jpg": "/gamix/static/media/pc.3122633c69435ad6d763.jpg",
+    "static/media/league2.jpg": "/gamix/static/media/league2.81a779a6a1b7c8a43a8b.jpg",
+    "static/media/pubg2.png": "/gamix/static/media/pubg2.bfdf768cdaecea89399d.png",
+    "static/media/content2.png": "/gamix/static/media/content2.68777c438cdef49dd180.png",
+    "static/media/flight2.jpg": "/gamix/static/media/flight2.5e57db39434d852821bd.jpg",
+    "static/media/graphic.jpg": "/gamix/static/media/graphic.9e858ab87d80a194a321.jpg",
+    "static/media/fifa2023.jpg": "/gamix/static/media/fifa2023.270fbb47da23ac4f9fc0.jpg",
+    "static/media/gta.jpg": "/gamix/static/media/gta.b7cb09edcc76dae6eb4a.jpg",
+    "static/media/forza5.jpg": "/gamix/static/media/forza5.2348fddd9bac81e09488.jpg",
+    "static/media/fortnite.jpg": "/gamix/static/media/fortnite.d05cd7e83b15abec27aa.jpg",
+    "static/media/download.png": "/gamix/static/media/download.f046d01093d977d39b6d.png",
+    "static/media/froza.jpg": "/gamix/static/media/froza.60bc99e3d710311a21e7.jpg",
+    "static/media/minecraft.jpg": "/gamix/static/media/minecraft.3dcacbfb3f641af83387.jpg",
+    "static/media/valorent.jpg": "/gamix/static/media/valorent.d59301f9caf3f9515539.jpg",
+    "static/media/banner2.png": "/gamix/static/media/banner2.65fd4c54ce73f7c11857.png",
+    "static/media/warzone.jpg": "/gamix/static/media/warzone.2011dbad56a3ff05a62e.jpg",
+    "static/media/rdr2.jpg": "/gamix/static/media/rdr2.a3a1638298365c69ae2a.jpg",
+    "index.html": "/gamix/index.html",
+    "main.bb374bfb.css.map": "/gamix/static/css/main.bb374bfb.css.map",
+    "main.a47509c6.js.map": "/gamix/static/js/main.a47509c6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb374bfb.css",
+    "static/js/main.a47509c6.js"
+  ]
+}
